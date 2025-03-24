@@ -13,5 +13,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migueldv06&show_icons=true&theme=dark)
 
 📫 Entre em contato:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-domiciano-vieira)  
-[![LinkedIn](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/41996825992)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-domiciano-vieira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=WhatsApp)](https://wa.me/41996825992)
