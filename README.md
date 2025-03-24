@@ -14,3 +14,4 @@
 
 📫 Entre em contato:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-domiciano-vieira)  
+[![LinkedIn](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/41996825992)
