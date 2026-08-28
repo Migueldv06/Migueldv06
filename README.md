@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor & Estudante de Tecnologia  
 📊 Experiência e interesse em ETL, Bancos de Dados e Desenvolvimento de Software  
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS) pelo IFPR Campus Colombo  
+🎓 Cursando Análise e Desenvolvimento de Sistemas (TADS) pelo IFPR Campus Colombo  
 🎓 Técnico em Informática pelo IFPR  
 🚀 Sempre explorando novas tecnologias, código aberto e arquitetura de dados  
 
@@ -21,13 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migueldv06&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueldv06&layout=compact&theme=dark)
 
 ---
 
