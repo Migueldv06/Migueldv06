@@ -22,9 +22,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Stats**
-![Estatísticas do GitHub](./profile/stats.svg)
-![Linguagens mais usadas](./profile/top-langs.svg)
+**Estatísticas**
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="Estatísticas do GitHub" height="165" />
+  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="165" />
+</div>
 
 ---
 
